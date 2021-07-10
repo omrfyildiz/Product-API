@@ -6,3 +6,5 @@ This API project is based on:
 - PostgreSql
 - Entity FrameworkCore
 - Docker
+
+and documented on Swagger
