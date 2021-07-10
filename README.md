@@ -1,6 +1,6 @@
 # Product-API
 
-This API project is based on:
+This a WEB API project is based on:
 
 - .NET5
 - PostgreSql
