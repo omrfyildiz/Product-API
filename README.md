@@ -7,4 +7,4 @@ This a WEB API project is based on:
 - Entity FrameworkCore
 - Docker
 
-and documented on Swagger
+and it is able to test and be documented on Swagger
