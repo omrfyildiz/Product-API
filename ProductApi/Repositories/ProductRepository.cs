@@ -33,7 +33,7 @@ namespace ProductApi.Repositories
 
         public async Task<Product> Get(int id)
         {
-            return await _context.Products.FindAsync();
+            return await _context.Products.FindAsync(id);
         }
 
         public async Task<IEnumerable<Product>> GetAll()
